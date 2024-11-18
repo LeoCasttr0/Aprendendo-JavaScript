@@ -8,3 +8,5 @@ function darUmALo() {
 
 // executando a função
 darUmALo();
+
+// importante a funçao ter um nome sugestivos , algum significado, indicando oque a função faz, por isso o nome da nossa funçao é darUmAlo
